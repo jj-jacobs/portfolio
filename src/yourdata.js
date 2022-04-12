@@ -17,21 +17,21 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Jeremy",
   headerTagline: [
     //Line 1 For Header
     "Building digital",
     //Line 2 For Header
     "products, brands,",
     //Line 3 For Header
-    "and experience",
+    "and experiences",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "jeremyej326@gmail.com",
 
   // End Header Details -----------------------
 
@@ -113,13 +113,13 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "Full stack software engineer proficient in JavaScript, NodeJS, Express, Angular, Python, and Flask as well as SQL databases and firebase/firestore.",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "I'm a self taught software developer whos always looking to stay on the cutting edge of the industry. Starting with computer science in high school I've always had a knack and affinity for code. This has lead me to make fun personal projects such as a twitter clone as well as given me the skills to work as a professional web developer with Elevate U.",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "Outside of the coding world you'll often find me behind the handlebars of a road bike, or at the crag climbing rocks with my buddies. I've also had the opportunity to engage in team sports and boy scouts in high school which has given me an opportunity to enhance my abilities as a teammate and team leader.",
   aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "https://media-exp1.licdn.com/dms/image/C5603AQE9rnXDAxwWIA/profile-displayphoto-shrink_800_800/0/1631907794451?e=1655337600&v=beta&t=F04pZnj0N0D8pEzdS25fw6AvnDNMkKVtWau6EO7LHjc",
 
   //   End About Section ---------------------
 
@@ -174,7 +174,7 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
+    { img: githubIcon, url: "https://github.com/jj-jacobs" },
     {
       img: codepenIcon,
       url: "https://www.codepen.com/",
